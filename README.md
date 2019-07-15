@@ -5,7 +5,7 @@ Checkout this repo, install dependencies, then start the gulp process with the f
 
 ```
 > git clone git@github.com:onojaMatthew/video_search.git
-> cd ReduxSimpleStarter
+> cd video_search
 > npm install
 > npm start
 ```
